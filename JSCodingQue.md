@@ -768,3 +768,20 @@ const factor = 0.621371
 const kmToMiles = dist * factor;
 console.log(kmToMiles)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+41. Write a program to find most recurring character from a string;
+Sol:-
+
+let input = "Hello Buddy Are you there";
+
+function getMax (str) {
+ let max = 0,
+     maxChar = '';
+  str.split('').forEach(function(char){
+    if(str.split(char).length > max) {
+        max = str.split(char).length-1;
+        maxChar = char;
+     }
+  });
+  return {maxChar,max};
+};
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -22,20 +22,22 @@ Interview Questions
 
 
 
-MOM of speridian
-
+MOM of speridian (max 30 min)
+Interviewer:- Danish
 1. Introduction
-2. Explain Virtual Dom and its working
-3. React Native Threads
-4. What are Class Components and Functional Components? When to use them?
-5. Lifecycle method of Class Component
-6. Redux and its component
-7. useMemo, useCallBack
-8. What is an event loop?
-9. what is null and undefined
-10. Explain let, var and Const. 
-11. Explain typeOf.
-12. difference between arrow function and normal function
+2. Few questions from projects that I've done majorly on the bridging concept, how it is created and how do we access nativeModule functions in the React Native
+3. Explain Virtual Dom and its working
+4. React Native Threads
+5. What are Class Components and Functional Components? When to use them?
+6. Lifecycle method of Class Component
+7. What is bridging
+8. Redux and its component? Why and When do we need to use redux?
+9. useMemo, useCallBack
+10. What is an event loop?
+11. what is null and undefined
+12. Explain let, var and Const.
+13. Explain typeOf.
+14. difference between arrow function and normal function
 
 
 JS Questions

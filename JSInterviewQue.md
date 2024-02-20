@@ -27,3 +27,6 @@ const object = {
     }
 };
 console.log(object.getMessage());
+
+4. Write a program for finding palindrome numbers.
+5. Write a program to the most recurring Character in a string.
